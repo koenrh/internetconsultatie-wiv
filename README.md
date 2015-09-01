@@ -30,7 +30,7 @@ Overzicht reacties van organisaties op voorstel *Wet op de inlichtingen- en veil
 - [Stichting Vrijschrift](https://koenrh.github.io/internetconsultatie-wiv/web/viewer.html?file=/internetconsultatie-wiv/documents/40517.pdf) - *mr. drs. W.H. van Holst*
 - [Studiecommissie Journalistieke Bronbescherming](https://koenrh.github.io/internetconsultatie-wiv/web/viewer.html?file=/internetconsultatie-wiv/documents/40402.pdf) - *mr. O.M.B.J. Volgenant*
 - [SURF](https://koenrh.github.io/internetconsultatie-wiv/web/viewer.html?file=/internetconsultatie-wiv/documents/40451.pdf) - *E Jeunink*
-- [T-Mobile](https://koenrh.github.io/internetconsultatie-wiv/web/viewer.html?file=/internetconsultatie-wiv/documents/https://local) - *J van der Linden*
+- [T-Mobile](https://koenrh.github.io/internetconsultatie-wiv/web/viewer.html?file=/internetconsultatie-wiv/documents/40700.pdf) - *J van der Linden*
 - [Tele2](https://koenrh.github.io/internetconsultatie-wiv/web/viewer.html?file=/internetconsultatie-wiv/documents/40204.pdf) - *R. van der Berg*
 - [VNO-NCW, MKB-Nederland](https://koenrh.github.io/internetconsultatie-wiv/web/viewer.html?file=/internetconsultatie-wiv/documents/40385.pdf) - *mr. N.C.J.M. Mallens*
 - [Voys](https://koenrh.github.io/internetconsultatie-wiv/web/viewer.html?file=/internetconsultatie-wiv/documents/40397.pdf) - *Dhr. M. Vletter*
