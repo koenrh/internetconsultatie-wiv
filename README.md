@@ -11,6 +11,7 @@ Overzicht reacties van organisaties op voorstel *Wet op de inlichtingen- en veil
 - [College voor de Rechten van de Mens](https://koenrh.github.io/internetconsultatie-wiv/web/viewer.html?file=/internetconsultatie-wiv/documents/40383.pdf) - *Dr.mr. J.P. Loof*
 - [Free Press Unlimited](https://koenrh.github.io/internetconsultatie-wiv/web/viewer.html?file=/internetconsultatie-wiv/documents/39812.pdf) - *Dhr. L. Willems*
 - [Google](https://koenrh.github.io/internetconsultatie-wiv/web/viewer.html?file=/internetconsultatie-wiv/documents/40447.pdf) - *C.R. Klimbie*
+- [Greenpeace International](https://koenrh.github.io/internetconsultatie-wiv/web/viewer.html?file=/internetconsultatie-wiv/documents/40718.pdf) - *D. Simons*
 - [Instituut voor Informatierecht](https://koenrh.github.io/internetconsultatie-wiv/web/viewer.html?file=/internetconsultatie-wiv/documents/40243.pdf) - *Mr O.L. van Daalen*
 - [Internet Society Nederland](https://koenrh.github.io/internetconsultatie-wiv/web/viewer.html?file=/internetconsultatie-wiv/documents/40239.pdf) - *B Goslings*
 - [KPN](https://koenrh.github.io/internetconsultatie-wiv/web/viewer.html?file=/internetconsultatie-wiv/documents/40392.pdf) - *mr. P.C. Knol, G.J.C Wabeke*
