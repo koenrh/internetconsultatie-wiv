@@ -11,7 +11,7 @@ Overzicht reacties van organisaties op voorstel *Wet op de inlichtingen- en veil
 - [Instituut voor Informatierecht](https://koenrh.github.io/internetconsultatie-wiv/web/viewer.html?file=/internetconsultatie-wiv/documents/40243.pdf) - *Mr O.L. van Daalen*
 - [Internet Society Nederland](https://koenrh.github.io/internetconsultatie-wiv/web/viewer.html?file=/internetconsultatie-wiv/documents/40239.pdf) - *B Goslings*
 - [KPN](https://koenrh.github.io/internetconsultatie-wiv/web/viewer.html?file=/internetconsultatie-wiv/documents/40392.pdf) - *mr. P.C. Knol, G.J.C Wabeke*
-- [Microsoft](https://koenrh.github.io/wiv-test/web/viewer.html?file=/internetconsultatie-wiv/documents/40413.pdf) - *J.K.A. de Groot*
+- [Microsoft](https://koenrh.github.io/internetconsultatie-wiv/web/viewer.html?file=/internetconsultatie-wiv/documents/40413.pdf) - *J.K.A. de Groot*
 - [Vodafone](https://koenrh.github.io/internetconsultatie-wiv/web/viewer.html?file=/internetconsultatie-wiv/documents/40649.pdf) - *mr M.A. Prinsen Geerligs*
 - [Nederland ICT](https://koenrh.github.io/internetconsultatie-wiv/web/viewer.html?file=/internetconsultatie-wiv/documents/40552.pdf) -  *Directeur Lotte de Bruijn*
 - [Nederlands	Juristen	Comité	voor	de	Mensenrechten](https://koenrh.github.io/internetconsultatie-wiv/web/viewer.html?file=/internetconsultatie-wiv/documents/40541.pdf) (NJCM) - *M. van Noorloos*
