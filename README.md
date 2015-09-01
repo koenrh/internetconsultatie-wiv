@@ -2,6 +2,8 @@
 
 Overzicht reacties van organisaties op voorstel *Wet op de inlichtingen- en veiligheidsdiensten 20..*.
 
+## Organisaties
+
 - [Amnesty International](https://koenrh.github.io/internetconsultatie-wiv/web/viewer.html?file=/internetconsultatie-wiv/documents/40507.pdf) - *E. Nazarski*
 - [BIT](https://koenrh.github.io/internetconsultatie-wiv/web/viewer.html?file=/internetconsultatie-wiv/documents/40527.pdf) - *W.C.A. Potters*
 - [Business Communication Providers Alliance](https://koenrh.github.io/internetconsultatie-wiv/web/viewer.html?file=/internetconsultatie-wiv/documents/40379.pdf) (BT, Colt, Verizon) - *mr N.C. van Veen*
