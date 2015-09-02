@@ -23,8 +23,6 @@ Overzicht reacties van organisaties op voorstel *Wet op de inlichtingen- en veil
 - [PowerDNS, Dovecot, Open-Xchange](https://koenrh.github.io/internetconsultatie-wiv/web/viewer.html?file=/internetconsultatie-wiv/documents/40326.pdf) - *A.W.R. Hubert*
 - [Privacy Barometer](https://koenrh.github.io/internetconsultatie-wiv/web/viewer.html?file=/internetconsultatie-wiv/documents/40307.pdf) - *R. Barth*
 - [Privacy International](https://koenrh.github.io/internetconsultatie-wiv/web/viewer.html?file=/internetconsultatie-wiv/documents/40209.pdf) - *C Wilson Palow*
-- [Radboud Universiteit Nijmegen](https://koenrh.github.io/internetconsultatie-wiv/web/viewer.html?file=/internetconsultatie-wiv/documents/40711.pdf) - *LLM ME Koning*
-- [Rijksuniversiteit Groningen](https://koenrh.github.io/internetconsultatie-wiv/web/viewer.html?file=/internetconsultatie-wiv/documents/40283.pdf) - *Dr F.B. Brokken*
 - [SpeakUp](https://koenrh.github.io/internetconsultatie-wiv/web/viewer.html?file=/internetconsultatie-wiv/documents/40499.pdf) - *F.P.R. Overkamp*
 - [Stichting Digitale Infrastructuur Nederland](https://koenrh.github.io/internetconsultatie-wiv/web/viewer.html?file=/internetconsultatie-wiv/documents/40572.pdf) (DINL) - *M.J.A Steltman*
 - [Stichting Dutch Hosting Provider Association](https://koenrh.github.io/internetconsultatie-wiv/web/viewer.html?file=/internetconsultatie-wiv/documents/40574.pdf) (DHPA) - *M.J.A. Steltman*
